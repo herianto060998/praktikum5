@@ -1,4 +1,1 @@
-![](Tugas.py)
-
-
-
+```python
