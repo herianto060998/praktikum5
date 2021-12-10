@@ -14,8 +14,7 @@
 ![gambar1](gambar/soallatihan.png.png)
 
 ## SOURCE CODE LATIHAN 
-''' python
-
+'''python
 daftarKontak = {"Nama":"Nomer Telpon"}
 kontak       = {'Ari':'081267888', 'Dina' : '087677776'}
 
@@ -284,14 +283,13 @@ while True:
         i.close()
     else:
         P("Silahkan pilih menu yang tersedia...")
-
 '''
 
 ## HASIL OUTPUT TUGAS 
 
 ![gambar4](gambar/keluaran1.png.png)
 
-![gambar5](gamnbar/keluaran2.png.png)
+![gambar5](gambar/keluaran2.png.png)
 
 ## FLOWCHART
 
