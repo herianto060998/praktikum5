@@ -14,7 +14,7 @@
 ![gambar1](gambar/soallatihan.png.png)
 
 ## SOURCE CODE LATIHAN 
-'''python
+```python
 daftarKontak = {"Nama":"Nomer Telpon"}
 kontak       = {'Ari':'081267888', 'Dina' : '087677776'}
 
@@ -62,7 +62,7 @@ kontak . pop ( 'Dina' )
 print ( kontak . items ())
 print ( 30 * "═" )
 
-'''
+```
 
 ## HASIL KELUARAN
 ![gambar2](gambar/hasilkeluaran.png.png)
@@ -90,7 +90,7 @@ Fungsi else jika tidak error dan tipe yang dimasukan sesuai maka proses while Tr
 Fungsinya apabila diinputkan bukan berupa tipe maka hasil nya error (valueError)<p>
 
 ## SOURCE CODE TUGAS
-''' python
+```python
 
 P = print
 print("Masukan data mahasiswa")
@@ -283,7 +283,7 @@ while True:
         i.close()
     else:
         P("Silahkan pilih menu yang tersedia...")
-'''
+```
 
 ## HASIL OUTPUT TUGAS 
 
