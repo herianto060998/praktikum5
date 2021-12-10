@@ -7,8 +7,8 @@
 ## DAFTAR ISI
 | Tidak | ISI | PENJELASAN |
 | -- | --- | ---------- |
-| 1. | Tugas Latihan 5 | [penjelasan](#TugasLatihan) |
-| 2. | Tugas Praktikum 5 | [penjelasan](#PenjelasanTugas) |
+| 1. | Tugas Latihan 5  | [penjelasan](#TugasLatihan) |
+| 2. | Tugas Praktikum 5  | [penjelasan](#PenjelasanTugas) |
 
 ## TUGAS LATIHAN 
 ![gambar1](gambar/soallatihan.png.png)
