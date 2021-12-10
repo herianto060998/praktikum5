@@ -1,1 +1,2 @@
-# praktikum5
+![gambar1](kuliah/Tugas.py)
+
